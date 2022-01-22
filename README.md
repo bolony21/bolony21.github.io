@@ -3,6 +3,5 @@ Under construction website and personal blog, intented for educational purposes 
 
 Use of the code for your own websites is encouraged however do give credit
 
-Website content may not be suitable for all
 
 Current version: v1.1.0
