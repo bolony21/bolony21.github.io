@@ -4,4 +4,4 @@ Under construction website and personal blog, intented for educational purposes 
 Use of the code for your own websites is encouraged however do give credit
 
 
-Current version: v1.1.0
+Current version: v1.2.0
