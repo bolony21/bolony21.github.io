@@ -1,0 +1,51 @@
+
+<html>
+    <head>
+		<title>Personal Projects</title>
+		<link rel="icon" href="">
+    </head>
+    <main> 
+        <header> 
+            <h2>
+              <h3>
+               <nav>
+                   <ul>
+                       <li><a href="/">Projects</a></li> <li><a href="/Home">Projects</a></li> <li><a href="/Blog">Blog</a></li>
+                   </ul>
+               </nav>
+              </h3> 
+            </h2>
+           </header>
+       
+       
+       
+        <body>
+
+
+
+            
+            <article>
+                <section>
+                 <p style="font-family: 'Times New Roman', Times, serif; color: darkslateblue;" > Here are a variety of Differnet projects im working at At the moment!
+        
+                </p>
+                <p style= "color:darkblue;"> -------------------------------------------------</p>
+                <p style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: black;"> 1. <a href="https://github.com/bolony21/Pyco-Calco">Python Calculator[WIP]</a> - WIP Calculator made in python!
+                    2. <a href="https://github.com/bolony21/ImageASCIIConvert">Image to ASCII Text Converter[COMPLETE]</a> A ttk custom themed UI that converts images to ascii text and outputs them using Python packages!
+                    3. This website! - Used to learn HTML, full fledged blog,games and browser-ran programs coming soon! 
+                    4. VRCHAT Game development - A passion project, Creating VRCHAT Worlds, learning 3D modeling,animation and Game development on the way, C# programs posted soon!
+                    5. Other Misc Projects - Will post when Im ready!
+                    
+                </p>    
+                
+      
+                </section>
+            </article>
+           
+            <p style= "color: rgb(236, 8, 8);"><em> ----------------------------------------------------------------------------------------------</em></p>
+			<p style= "color: rgb(236, 8, 8);"><em> Site under construction! Check back frequently to see my progress as I learn HTML!</em></p>
+
+        </body>
+
+    </main>
+
